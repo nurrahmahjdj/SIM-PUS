@@ -23,7 +23,7 @@ Aplikasi ini dibangun menggunakan Laravel 8 untuk mengelola data Skripsi / Tugas
   ### 1. Clone Repository
 
   ```bash
-  git clone https://github.com/dillaaalf/SIM-PUS.git
+  git clone https://github.com/nurrahmahjdj/SIM-PUS.git
 
   # Masuk ke forder project
   cd SIM-PUS
